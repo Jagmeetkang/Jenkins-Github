@@ -1,4 +1,4 @@
-package practice;
+import practice.Student;
 
 public class JenkinsGithub {
     public static void main(String[] args) {
@@ -10,6 +10,7 @@ public class JenkinsGithub {
         System.out.println("Jenkins Github API sixth line");
         System.out.println("Jenkins Github API seventh line");
         System.out.println("Jenkins Github API eighth line");
+        System.out.println("Jenkins Github API ninth line");
         Student student = new Student();
         student.printStudent();
     }
