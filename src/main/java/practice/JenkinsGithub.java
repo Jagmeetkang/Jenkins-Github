@@ -8,5 +8,6 @@ public class JenkinsGithub {
         System.out.println("Jenkins Github API fourth line");
         System.out.println("Jenkins Github API fifth line");
         System.out.println("Jenkins Github API sixth line");
+        System.out.println("Jenkins Github API seventh line");
     }
 }
