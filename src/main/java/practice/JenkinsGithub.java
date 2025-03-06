@@ -10,5 +10,7 @@ public class JenkinsGithub {
         System.out.println("Jenkins Github API sixth line");
         System.out.println("Jenkins Github API seventh line");
         System.out.println("Jenkins Github API eighth line");
+        Student student = new Student();
+        student.printStudent();
     }
 }
